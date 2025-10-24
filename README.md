@@ -31,6 +31,7 @@ For topics or projects that require a dedicated repository, a link to that repos
 | Name | Tag | Note | Source | My Notes |
 |------|-----|------|---------|-----------|
 | **Colt Steele – The Git & GitHub Bootcamp** | Course, Git | No notes; Git practices couldn’t be uploaded. | [Udemy Course](https://www.udemy.com/course/git-and-github-bootcamp/) | – |
+| **Mike X Cohen – MATLAB onramp: Learn scientific coding with ChatGPT's help** | Course, MATLAB | All the exercises from the repo and videos. | [Udemy Course](https://www.udemy.com/course/matlab-programming-mxc) | [Exercises](./skills/MATLAB_Onramp) |
 
 ---
 
