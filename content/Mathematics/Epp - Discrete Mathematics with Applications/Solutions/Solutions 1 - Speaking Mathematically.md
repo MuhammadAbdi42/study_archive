@@ -1,3 +1,5 @@
+> [!strategy] [[Epp - Discrete Mathematics with Applications|Entry]] | [[Chapter 1 - Speaking Mathematically|Notes]]
+
 ## Exercise set 1.1
 ### Question 1
 **(a)** $x^2 = -1$

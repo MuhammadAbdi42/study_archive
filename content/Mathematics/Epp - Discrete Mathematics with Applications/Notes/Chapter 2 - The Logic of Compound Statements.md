@@ -1,3 +1,5 @@
+> [!strategy] [[Epp - Discrete Mathematics with Applications|Entry]] | [[Solutions 2 - The Logic of Compound Statements|Solutions]]
+
 ## Logical Form and Logical Equivalence
 > [!definition]
 > 

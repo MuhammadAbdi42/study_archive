@@ -1,3 +1,5 @@
+> [!strategy] [[Epp - Discrete Mathematics with Applications|Entry]] | [[Solutions 1 - Speaking Mathematically|Solutions]]
+
 ## Variables
 > [!definition]
 >

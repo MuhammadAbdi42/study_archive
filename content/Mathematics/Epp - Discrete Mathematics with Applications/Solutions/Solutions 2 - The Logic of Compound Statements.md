@@ -1,3 +1,5 @@
+> [!strategy] [[Epp - Discrete Mathematics with Applications|Entry]] | [[Chapter 2 - The Logic of Compound Statements|Notes]]
+
 ## Exercise Set 2.1
 ### Question 1
  - $(a + 2b)(a^2 - b)$ can be written in prefix notation
