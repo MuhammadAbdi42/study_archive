@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Study Archive",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "muhammadabdi42.github.io/study_archive",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -78,7 +78,31 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (a, b) => {
+          // Extract folder and filename from slug
+          const getFolderAndFile = (slug: string) => {
+            const parts = slug.split('/');
+            const fileName = parts[parts.length - 1];
+            const folderName = parts[parts.length - 2];
+            return { fileName, folderName };
+          };
+
+          const aInfo = getFolderAndFile(a.slug!);
+          const bInfo = getFolderAndFile(b.slug!);
+
+          // Check if filename matches folder name
+          const aIsIndex = aInfo.fileName === aInfo.folderName;
+          const bIsIndex = bInfo.fileName === bInfo.folderName;
+
+          // Put matching file at top
+          if (aIsIndex && !bIsIndex) return -1;
+          if (!aIsIndex && bIsIndex) return 1;
+
+          // Otherwise sort alphabetically
+          return a.slug!.localeCompare(b.slug!, undefined, { numeric: true, sensitivity: 'base' });
+        }
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
