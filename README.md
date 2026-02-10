@@ -1,17 +1,7 @@
-# Quartz v4
+# 📚 Study Archive
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to my personal study archive, where I document my learning journey, store solutions, and organize my technical writeups.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**View the live site here:** [muhammadabdi42.github.io/study_archive](https://muhammadabdi42.github.io/study_archive)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Built With [Quartz 4.0](https://quartz.jzhao.xyz/).
