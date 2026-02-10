@@ -1,3 +1,5 @@
+> [!strategy] [[Blitzstein - Introduction to Probability|Entry]] | [[Chapter 1 - Probability and Counting|Notes]]
+
 ## Counting
 ### Question 1
 ${11 \choose 1}{10 \choose 4}{6 \choose 4}{2 \choose 2} = 34650$

@@ -1,3 +1,5 @@
+> [!strategy] [[Blitzstein - Introduction to Probability|Entry]] | [[Chapter 3 - Random Variables and Their Distributions|Notes]]
+
 ## PMFs and CDFs
 ### Question 1
 $$

@@ -1,3 +1,5 @@
+> [!strategy] [[Blitzstein - Introduction to Probability|Entry]] | [[Chapter 2 - Conditional Probability|Notes]]
+
 ## Conditioning on evidence
 ### Question 1
 Let:

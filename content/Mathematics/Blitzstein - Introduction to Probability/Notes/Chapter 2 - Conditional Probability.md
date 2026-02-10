@@ -1,3 +1,5 @@
+> [!strategy] [[Blitzstein - Introduction to Probability|Entry]] | [[Solutions 2 - Conditional Probability|Solutions]]
+
 ## Definition and intuition
 > [!definition]
 >

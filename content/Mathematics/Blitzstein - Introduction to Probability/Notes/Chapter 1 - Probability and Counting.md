@@ -1,3 +1,5 @@
+> [!strategy] [[Blitzstein - Introduction to Probability|Entry]] | [[Solutions 1 - Speaking Mathematically|Solutions]]
+
 ## Sample spaces and Pebble World
 > [!definition] 
 >

@@ -1,3 +1,5 @@
+> [!strategy] [[Blitzstein - Introduction to Probability|Entry]] | [[Solutions 3 - Random Variables and Their Distributions|Solutions]]
+
 ## Random Variables
 > [!definition]
 >
