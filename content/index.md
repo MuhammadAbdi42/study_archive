@@ -14,6 +14,8 @@ Welcome to my digital study archive. This is a structured collection of my study
 - [[Epp - Discrete Mathematics with Applications|Discrete Mathematics with Applications - Epp]] (My notes and solutions for the book)
 
 ### 💻 Programming
+- Python
+	- [[Pytopia - Python Prgramming (2023)|Python Prgramming (2023) - Pytopia]] (My solution codes)
 - MATLAB
-	- [[Master MATLAB Through Guided Problem-Solving|MATLAB Onramp: Learn Scientific Coding with ChatGPT's Help - Mike X Cohen]] (My solution codes)
-	- [[Master MATLAB Through Guided Problem-Solving|Master MATLAB Through Guided Problem-Solving - Mike X Cohen]] (My solution codes)
+	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|MATLAB Onramp: Learn Scientific Coding with ChatGPT's Help - Mike X Cohen]] (My solution codes)
+	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|Master MATLAB Through Guided Problem-Solving - Mike X Cohen]] (My solution codes)
