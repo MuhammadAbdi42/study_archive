@@ -8,8 +8,7 @@ Welcome to my digital study archive. This is a structured collection of my study
 > 
 > For topics or projects that require a dedicated repository, a link to that repository is provided.
 
-## 📂 Index
-### 🧮 Mathematics
+ ### 🧮 Mathematics
 - [[Blitzstein - Introduction to Probability|Introduction to Probability - Blitzstein]] (My notes and solutions for the book)
 - [[Epp - Discrete Mathematics with Applications|Discrete Mathematics with Applications - Epp]] (My notes and solutions for the book)
 
@@ -19,3 +18,7 @@ Welcome to my digital study archive. This is a structured collection of my study
 - MATLAB
 	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|MATLAB Onramp: Learn Scientific Coding with ChatGPT's Help - Mike X Cohen]] (My solution codes)
 	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|Master MATLAB Through Guided Problem-Solving - Mike X Cohen]] (My solution codes)
+- Competitions
+	- [[LeetCode Problems]] (My solutions)
+	- [[Project Euler Problems]] (My solutions)
+	- [[Exercism Problems]] (My solutions)
