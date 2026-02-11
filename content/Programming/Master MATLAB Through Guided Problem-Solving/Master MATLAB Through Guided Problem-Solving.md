@@ -18,5 +18,3 @@ end_date:
 > [!note]
 > 
 > The codes are included in their own designated repository: [MATLAB Guided](https://github.com/MuhammadAbdi42/matlab_guided)
-
-> [!parent] [[Programming]]
