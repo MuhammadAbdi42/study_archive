@@ -11,10 +11,12 @@ progress: 12/35
 start_date: 2025-12-27
 end_date:
 ---
->[!waypoint]
->%% Begin Waypoint %%
->- [[OverTheWire, Bandit Wargame Solutions]]
+> [!about]
+> 
+> ![[Pasted image 20260211165137.png]]
 >
->%% End Waypoint %%
+> This entry includes my solution for [Bandit Wargame](https://overthewire.org/wargames/bandit/) By Over The Wire.
 
-> [!parent] [[Skills]]
+> [!note]
+> 
+> The codes are included in their own designated Gist: [Bandit Wargame Solutions](https://gist.github.com/MuhammadAbdi42/3ef02eb9dcc634e3c6a89df1d5964363)

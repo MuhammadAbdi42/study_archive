@@ -22,3 +22,6 @@ Welcome to my digital study archive. This is a structured collection of my study
 	- [[LeetCode Problems]] (My solutions)
 	- [[Project Euler Problems]] (My solutions)
 	- [[Exercism Problems]] (My solutions)
+
+### 🧰 Skills
+- [[OverTheWire, Bandit Wargame]] (My solutions)
