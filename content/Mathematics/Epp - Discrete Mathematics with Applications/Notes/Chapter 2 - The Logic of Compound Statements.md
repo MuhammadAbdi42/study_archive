@@ -41,8 +41,8 @@
 > **De Morgan's Law**
 >
 > The negation of an *and* statement is logically equivalent to the *or* statement in which each component is negated.
-> $$\
-> neg (p \land q) \equiv \neg p \lor \neg q
+> $$
+> \neg (p \land q) \equiv \neg p \lor \neg q
 > $$
 > The negation of an *or* statement is logically equivalent to the *and* statement in which each component is negated.
 > $$

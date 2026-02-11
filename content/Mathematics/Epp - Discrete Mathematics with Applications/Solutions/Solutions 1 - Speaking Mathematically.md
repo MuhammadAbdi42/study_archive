@@ -112,7 +112,9 @@
 
 ## Exercise set 1.2
 ### Question 1
-$$A = C, B = D$$
+$$
+A = C, B = D
+$$
 
 ---
 ### Question 2
@@ -249,11 +251,15 @@ Only $D$ and $A$ are equal.
 
 ---
 ### Question 15
-$$\{ 0000,1000,0100,0010,0001 \}$$
+$$
+\{ 0000,1000,0100,0010,0001 \}
+$$
 
 ---
 ### Question 16
-$$\{ xxxxy, xxxyx, xxyxx, xyxxx, yxxxx \}$$
+$$
+\{ xxxxy, xxxyx, xxyxx, xyxxx, yxxxx \}
+$$
 
 ## Exercise set 1.3
 ### Question 1
@@ -352,26 +358,36 @@ Only *d*
 
 ---
 ### Question 16
-$$f(-1) = 1; f(0) = 0; f\left( \frac{1}{2} \right) = \frac{1}{4}$$
+$$
+f(-1) = 1; f(0) = 0; f\left( \frac{1}{2} \right) = \frac{1}{4}
+$$
 
 ---
 ### Question 17
-$$g(-1000) = -999; g(0) = 1; g(999) = 1000$$
+$$
+g(-1000) = -999; g(0) = 1; g(999) = 1000
+$$
 
 ---
 ### Question 18
-$$h\left( -\frac{12}{5} \right) = h\left( \frac{0}{1} \right) = h\left( \frac{9}{17} \right) = 2$$
+$$
+h\left( -\frac{12}{5} \right) = h\left( \frac{0}{1} \right) = h\left( \frac{9}{17} \right) = 2
+$$
 
 ---
 ### Question 19
 Since,
-$$g(x) = \frac{2x^3 + 2x}{x^2 + 1} = \frac{2x(x^2 + 1)}{x^2 + 1} = 2x$$
+$$
+g(x) = \frac{2x^3 + 2x}{x^2 + 1} = \frac{2x(x^2 + 1)}{x^2 + 1} = 2x
+$$
 Therefore for every $x \in R$, $f(x) = g(x)$, thus $f = g$.
 
 ---
 ### Question 20
 Since,
-$$K(x) = (x-1)(x-3) + 1 = x^2 - 4x + 4 = (x-2)^2$$
+$$
+K(x) = (x-1)(x-3) + 1 = x^2 - 4x + 4 = (x-2)^2
+$$
 Therefore for every $x \in R$, $K(x) = H(x)$, thus $K = H$.
 
 ## Exercise set 1.4
