@@ -9,19 +9,25 @@ Welcome to my digital study archive. This is a structured collection of my study
 > For topics or projects that require a dedicated repository, a link to that repository is provided.
 
  ### 🧮 Mathematics
-- [[Blitzstein - Introduction to Probability|Introduction to Probability - Blitzstein]] (My notes and solutions for the book)
-- [[Epp - Discrete Mathematics with Applications|Discrete Mathematics with Applications - Epp]] (My notes and solutions for the book)
+- [[Blitzstein - Introduction to Probability|Introduction to Probability - Blitzstein]] (notes, solutions)
+- [[Epp - Discrete Mathematics with Applications|Discrete Mathematics with Applications - Epp]] (notes, solutions)
+
+### 🧠 Neuroscience
+- [[NeuroSyntax - Brain Dynamics|Brain Dynamic - NeuroSyntax Academy]] (notes)
 
 ### 💻 Programming
 - Python
-	- [[Pytopia - Python Prgramming (2023)|Python Prgramming (2023) - Pytopia]] (My solution codes)
+	- [[Pytopia - Python Prgramming (2023)|Python Prgramming (2023) - Pytopia]] (solutions, codes)
 - MATLAB
-	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|MATLAB Onramp: Learn Scientific Coding with ChatGPT's Help - Mike X Cohen]] (My solution codes)
-	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|Master MATLAB Through Guided Problem-Solving - Mike X Cohen]] (My solution codes)
+	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|MATLAB Onramp: Learn Scientific Coding with ChatGPT's Help - Mike X Cohen]] (solutions, codes)
+	- [[Mike X Cohen - Master MATLAB Through Guided Problem-Solving|Master MATLAB Through Guided Problem-Solving - Mike X Cohen]] (solutions, codes)
+- R
+	- [[Grolemund - Hands-On Programming with R|Hands-on Programming with R - Garrett Grolemund]] (notes, codes)
 - Competitions
-	- [[LeetCode Problems]] (My solutions)
-	- [[Project Euler Problems]] (My solutions)
-	- [[Exercism Problems]] (My solutions)
+	- [[LeetCode Problems]] (solutions, codes)
+	- [[Project Euler Problems]] (solutions, codes)
+	- [[Exercism Problems]] (solutions, codes)
 
 ### 🧰 Skills
-- [[OverTheWire, Bandit Wargame]] (My solutions)
+- [[Colt Steele - The Git and Github Bootcamp|The Git and Github Bootcamp - Colt Steele]]
+- [[OverTheWire - Bandit Wargame]] (solutions)
