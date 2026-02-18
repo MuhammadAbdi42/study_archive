@@ -1,13 +1,16 @@
 ---
 type:
   - Book
+tags:
+  - 📐Mathematics
 subtopics:
   - Discrete Mathematics
-tags:
-  - Mathematics/ongoing
-progress: 0%
+image: Pasted image 20260210182456.png
+status: 🟢 Active
 start_date: 2026-02-01
 end_date:
+chapters: "10"
+progress: "2"
 ---
 > [!about]
 > 

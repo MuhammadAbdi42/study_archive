@@ -1,13 +1,16 @@
 ---
 type:
   - Course
+tags:
+  - 💻Programming
 subtopics:
   - MATLAB
-tags:
-  - Programming/done
-progress: 100%
+image: Pasted image 20260211110909.png
+status: ✅ Done
 start_date: 2026-02-10
 end_date: 2026-02-10
+chapters: "10"
+progress: "10"
 ---
 > [!about]
 > 

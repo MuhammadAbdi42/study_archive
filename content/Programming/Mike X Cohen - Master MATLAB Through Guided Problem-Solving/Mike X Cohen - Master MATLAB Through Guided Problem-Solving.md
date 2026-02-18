@@ -1,13 +1,16 @@
 ---
 type:
   - Course
+tags:
+  - 💻Programming
 subtopics:
   - MATLAB
-tags:
-  - Programming/ongoing
-progress: 11/25
+image: banner.jpeg
+status: 💤 Sleeping
 start_date: 2026-02-10
 end_date:
+chapters: "25"
+progress: "9"
 ---
 > [!about]
 > 

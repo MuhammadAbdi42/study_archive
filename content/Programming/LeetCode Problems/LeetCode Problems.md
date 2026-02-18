@@ -1,10 +1,16 @@
 ---
 type:
   - Competition
+tags:
+  - 💻Programming
 subtopics:
   - Programming
-tags:
-  - Programming/competition
+image: Pasted image 20260211145953.png
+status: ⚪ Passive
+start_date:
+end_date:
+chapters:
+progress:
 ---
 > [!about]
 > 

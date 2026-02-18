@@ -1,13 +1,16 @@
 ---
 type:
   - Book
+tags:
+  - 💻Programming
 subtopics:
   - R
-tags:
-  - R
-progress: 0%
+image: Pasted image 20260212144551.png
+status: 🟢 Active
 start_date: 2026-01-18
 end_date:
+chapters: "3"
+progress: "0"
 ---
 > [!about]
 > 

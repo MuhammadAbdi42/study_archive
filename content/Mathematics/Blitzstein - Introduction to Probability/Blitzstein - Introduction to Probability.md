@@ -1,14 +1,17 @@
 ---
 type:
   - Book
+tags:
+  - 📐Mathematics
 subtopics:
   - Probability
   - R
-tags:
-  - Mathematics/ongoing
-progress: 3/13
+image: Pasted image 20260210181836.png
+status: 🟢 Active
 start_date: 2025-12-30
 end_date:
+chapters: "13"
+progress: "3"
 ---
 > [!about]
 > 

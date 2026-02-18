@@ -1,0 +1,62 @@
+formulas:
+  pro: ("●".repeat((number(progress) / number(chapters) * 20).round(0)) + "○".repeat(20 - (number(progress) / number(chapters) * 20).round(0)))
+properties:
+  formula.pro:
+    displayName: progress
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.startsWith("01 Studies")
+        - "!file.tags.isEmpty()"
+    groupBy:
+      property: status
+      direction: DESC
+    order:
+      - file.name
+      - status
+      - formula.pro
+      - chapters
+      - progress
+      - type
+      - tags
+      - subtopics
+    sort:
+      - property: formula.pro
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 333
+      note.status: 87
+      formula.pro: 258
+      note.type: 121
+      note.subtopics: 338
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder.startsWith("01 Studies")
+        - "!file.tags.isEmpty()"
+    groupBy:
+      property: status
+      direction: DESC
+    order:
+      - file.name
+      - status
+      - formula.pro
+      - tags
+    sort:
+      - property: formula.pro
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 333
+      note.status: 87
+      formula.pro: 258
+      note.type: 121
+      note.subtopics: 338
+    image: note.image
+    cardSize: 200

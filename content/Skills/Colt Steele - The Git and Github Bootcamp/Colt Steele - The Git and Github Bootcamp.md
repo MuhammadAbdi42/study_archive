@@ -1,14 +1,17 @@
 ---
 type:
   - Course
+tags:
+  - 🛠️Skills
 subtopics:
   - Git
   - Github
-tags:
-  - Skills/done
-progress: 100%
+image: Pasted image 20260212143426.png
+status: ✅ Done
 start_date: 2025-06-01
 end_date: 2025-06-01
+chapters: "10"
+progress: "10"
 ---
 > [!about]
 > 

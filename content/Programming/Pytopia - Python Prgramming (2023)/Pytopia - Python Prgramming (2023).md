@@ -1,13 +1,16 @@
 ---
 type:
   - Course
+tags:
+  - 💻Programming
 subtopics:
   - Python
-tags:
-  - Programming/done
-progress: 100%
-start_date: 2026-02-10
-end_date: 2026-02-10
+image: banner.png
+status: ✅ Done
+start_date: 2025-09-01
+end_date: 2026-09-01
+chapters: "174"
+progress: "174"
 ---
 > [!about]
 > 

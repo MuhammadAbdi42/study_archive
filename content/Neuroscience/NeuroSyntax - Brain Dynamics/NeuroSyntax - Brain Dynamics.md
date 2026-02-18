@@ -1,16 +1,19 @@
 ---
 type:
   - Course
+tags:
+  - 🧠Neuroscience
 subtopics:
   - EEG
   - MEG
   - Signal Processing
   - MATLAB
-tags:
-  - Neuroscience/ongoing
-progress: 2/23
+image: Pasted image 20260212144003.png
+status: 🟢 Active
 start_date: 2025-12-27
 end_date:
+chapters: "23"
+progress: "2"
 ---
 > [!about]
 > 

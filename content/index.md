@@ -1,5 +1,5 @@
 ---
-title: 🏠 Home
+title: Muhammad's Study Archive
 ---
 ## 🪴 Welcome
 Welcome to my digital study archive. This is a structured collection of my study notes, exercise solutions, and academic resources. This space is built to track my progress through various textbooks and technical subjects.

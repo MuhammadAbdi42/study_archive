@@ -1,15 +1,18 @@
 ---
 type:
   - Competition
+tags:
+  - 🛠️Skills
 subtopics:
   - Shell
   - Linux
   - Bash
-tags:
-  - Skills/ongoing
-progress: 12/35
+image: Pasted image 20260211165137.png
+status: 🟢 Active
 start_date: 2025-12-27
 end_date:
+chapters: "35"
+progress: "12"
 ---
 > [!about]
 > 
